@@ -1,3 +1,6 @@
+[![Darius's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariusDeah)](https://github.com/DariusDeah/github-readme-stats)
+
+
 Hello, World!
 
 Im Darius Deah, a soon to be full stack developer with a passion for learning new things and innovative ways to to tackle any task in any direction or varitation possible, im someone that enjoys figuring out more than one way to get to a destination and shoot past it
@@ -24,7 +27,7 @@ Fun facts about me!
 * 🏈played football most of my life 
 
 
-[![Darius's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariusDeah)](https://github.com/DariusDeah/github-readme-stats)
+
 
 <!---
 DariusDeah/DariusDeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
