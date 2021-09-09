@@ -5,7 +5,7 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 --💻currently im working on my certification in full stack web developement
 
 
---fun facts about me 
+--fun facts about me--
 *🎵Very much into all parts of music including audio engineering,production as well as playing live instruments 
 * 📟enjoy working on raspbery pi and arduino projects in my spare time 
 * 🏈played football most of my life 
