@@ -24,6 +24,8 @@ Fun facts about me!
 * 🏈played football most of my life 
 
 
+[![Darius's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariusDeah)](https://github.com/DariusDeah/github-readme-stats)
+
 <!---
 DariusDeah/DariusDeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
