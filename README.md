@@ -5,7 +5,12 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 
 -- 💻currently im working on my certification in full stack web developement
 -- im actively taking ibm courses in cloud engineering
--- proficent in * python * js * css * html * C++
+-- im proficent in 
+* python
+* js 
+* css
+* html
+* C++
 
 
 
