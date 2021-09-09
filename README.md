@@ -5,9 +5,9 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 
 -- 💻currently im working on my certification in full stack web developement.
 
--- im actively taking ibm courses in cloud engineering.
+-- Im actively taking IBM courses in cloud engineering.
 
--- im proficent in 
+-- Proficent in 
 * Python
 * Javascript 
 * CSS
