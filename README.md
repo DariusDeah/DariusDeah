@@ -8,7 +8,7 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 
 -- 💻Currently im working on my certification in full stack web developement @codeworksBoise.
 
--- Im actively taking iot courses.
+-- Im actively taking IOT courses.
 
 -- Proficent in 
 * Python
