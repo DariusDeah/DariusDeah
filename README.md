@@ -13,7 +13,7 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 -- Proficent in 
 * Python
 * Javascript 
-* CSS
+* CSS/SCSS
 * HTML
 * C++
 * Bootstrap
