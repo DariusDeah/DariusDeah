@@ -6,9 +6,8 @@ Hello, World!
 Im Darius Deah, a soon to be full stack developer with a passion for learning new things and innovative ways to to tackle any task in any direction or varitation possible, im someone that enjoys figuring out more than one way to get to a destination and shoot past it
 
 
--- 💻Currently im working on my certification in full stack web developement @codeworksBoise.
 
---🧠 Always Learning 
+--🧠 **Always Learning** 
 
 -- Proficent in 
 * Python
