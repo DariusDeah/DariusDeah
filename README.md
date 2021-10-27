@@ -14,8 +14,13 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 * Javascript 
 * CSS/SCSS
 * HTML
-* C++
-* Bootstrap
+* C#
+
+--Framworks
+*Vue
+*React
+*.Net
+
 
 
 
