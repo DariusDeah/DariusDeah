@@ -16,10 +16,10 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 * HTML
 * C#
 
---Framworks
-*Vue
-*React
-*.Net
+-- Framworks
+* Vue
+* React
+* .Net
 
 
 
