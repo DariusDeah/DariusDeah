@@ -7,7 +7,10 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 
 
 
---🧠 **Always Learning** 
+-- Go-to Quotes
+* 🧠 **"Learn it well and learn it fast"**
+* **"Theres more than one way to itterate over an array"**
+* **"beign the best is good, but beign the best you is better"** 
 
 -- Proficent in 
 * Python
