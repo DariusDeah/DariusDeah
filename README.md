@@ -18,6 +18,7 @@ Im Darius Deah, a soon to be full stack developer with a passion for learning ne
 * CSS/SCSS
 * HTML
 * C#
+* Node.js
 
 -- Framworks
 * Vue
