@@ -1,5 +1,5 @@
 
-# Hey Im Darius 👋🏾
+# Hey I'm Darius 👋🏾
 
 ## About Me📖
 I'm a Full Stack Web Developer
